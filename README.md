@@ -24,6 +24,6 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Website
-```
-https://vasilyevir.github.io/cvs812/
-```
+
+See [Configuration Reference](https://vasilyevir.github.io/cvs812/)
+
